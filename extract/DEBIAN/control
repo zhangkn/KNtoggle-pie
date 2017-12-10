@@ -1,0 +1,11 @@
+Package: com.drewmacneil.togglepie
+Name: toggle-pie
+Depends:
+Architecture: iphoneos-arm
+Description: toggle-pie changes the MH_PIE flag of the MACH-O header on iOS applications to disable ASLR on applications. Works on iOS 8 and 32/64-bit binaries (including FAT binaries).
+Maintainer: Drew MacNeil
+Author: Drew MacNeil
+Section: System
+Tag: role::hacker
+Version: 1.0.0-1+debug
+Installed-Size: 196
